@@ -40,8 +40,17 @@ brew install truffle
     > instance.[NameOfMethodOnContract]()
     ```
 
-## Versions
+## Change Log
 
+<details>
+<summary>0.1.1</summary>
+
+- smart contract is storing a "state" param
+- smart contract methods can accept arguments (message)
+- smart contract is migrated w/ default argument 
+- user can update "state" param on the smart contract (thus changing the returned message)
+
+</details>
 <details>
 <summary>0.1.0</summary>
 
