@@ -1,0 +1,23 @@
+{
+  "engines": { "node" : "16.13" },
+  "name": "hodl",
+  "version": "0.1.0",
+  "description": "## Install",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrT3313/hodl.git"
+  },
+  "author": "Reed Turgeon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrT3313/hodl/issues"
+  },
+  "homepage": "https://github.com/MrT3313/hodl#readme"
+}
